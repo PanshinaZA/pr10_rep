@@ -30,11 +30,11 @@
 
 Для начала выведем уникальный список скутеров и автомобилей:
 
-![image](https://github.com/user-attachments/assets/8c1a861f-0dc2-465a-8a38-d05aa3bee421)
+![image](https://github.com/user-attachments/assets/0ef23ac6-4a6a-4f90-b9cd-511651fdab01)
 
-Затем используем функцию plainto_tsquery для полнотекстового поиска:
+Затем сделаем то же самое, но используем функцию plainto_tsquery для полнотекстового поиска:
 
-![image](https://github.com/user-attachments/assets/1e467f50-87d3-44b5-a210-74f436a66bc4)
+![image](https://github.com/user-attachments/assets/705cd2a6-e8f8-4530-85a9-7454d458b5ec)
 
 Узнаем сколько клиентов соответствует обоим продуктам в паре:
 
